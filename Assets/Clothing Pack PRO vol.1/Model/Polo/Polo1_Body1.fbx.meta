@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 9042c5cc1fa4a864eb0089c302fafa77
+timeCreated: 1481216939
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Polo1__Body1_Button
+    100002: Polo1__Body1_n1
+    100004: Polo1__Body1_n2
+    100006: //RootNode
+    100008: Polo1_Body1_back1
+    100010: Polo1_Body1_back2
+    100012: Polo1_Body1_ButtonHole
+    100014: Polo1_Body1_Collar2
+    100016: Polo1_Body1_front1
+    100018: Polo1_Body1_front2
+    100020: Polo1_Body1_front3
+    100022: Polo1_Body1_front4
+    100024: Polo1_Body1_line
+    100026: Polo1_Body1_n2_line
+    100028: Polo1_Body1_Pocket
+    100030: Polo1_Body1_Pocket_flag
+    100032: Polo1_Body1_Pocket_line
+    100034: Polo1_Body1_side
+    400000: Polo1__Body1_Button
+    400002: Polo1__Body1_n1
+    400004: Polo1__Body1_n2
+    400006: //RootNode
+    400008: Polo1_Body1_back1
+    400010: Polo1_Body1_back2
+    400012: Polo1_Body1_ButtonHole
+    400014: Polo1_Body1_Collar2
+    400016: Polo1_Body1_front1
+    400018: Polo1_Body1_front2
+    400020: Polo1_Body1_front3
+    400022: Polo1_Body1_front4
+    400024: Polo1_Body1_line
+    400026: Polo1_Body1_n2_line
+    400028: Polo1_Body1_Pocket
+    400030: Polo1_Body1_Pocket_flag
+    400032: Polo1_Body1_Pocket_line
+    400034: Polo1_Body1_side
+    2300000: Polo1__Body1_Button
+    2300002: Polo1__Body1_n1
+    2300004: Polo1__Body1_n2
+    2300006: Polo1_Body1_back1
+    2300008: Polo1_Body1_back2
+    2300010: Polo1_Body1_ButtonHole
+    2300012: Polo1_Body1_Collar2
+    2300014: Polo1_Body1_front1
+    2300016: Polo1_Body1_front2
+    2300018: Polo1_Body1_front3
+    2300020: Polo1_Body1_front4
+    2300022: Polo1_Body1_line
+    2300024: Polo1_Body1_n2_line
+    2300026: Polo1_Body1_Pocket
+    2300028: Polo1_Body1_Pocket_flag
+    2300030: Polo1_Body1_Pocket_line
+    2300032: Polo1_Body1_side
+    3300000: Polo1__Body1_Button
+    3300002: Polo1__Body1_n1
+    3300004: Polo1__Body1_n2
+    3300006: Polo1_Body1_back1
+    3300008: Polo1_Body1_back2
+    3300010: Polo1_Body1_ButtonHole
+    3300012: Polo1_Body1_Collar2
+    3300014: Polo1_Body1_front1
+    3300016: Polo1_Body1_front2
+    3300018: Polo1_Body1_front3
+    3300020: Polo1_Body1_front4
+    3300022: Polo1_Body1_line
+    3300024: Polo1_Body1_n2_line
+    3300026: Polo1_Body1_Pocket
+    3300028: Polo1_Body1_Pocket_flag
+    3300030: Polo1_Body1_Pocket_line
+    3300032: Polo1_Body1_side
+    4300000: Polo1__Body1_Button
+    4300002: Polo1__Body1_n1
+    4300004: Polo1__Body1_n2
+    4300006: Polo1_Body1_ButtonHole
+    4300008: Polo1_Body1_n2_line
+    4300010: Polo1_Body1_Collar2
+    4300012: Polo1_Body1_Pocket_line
+    4300014: Polo1_Body1_Pocket_flag
+    4300016: Polo1_Body1_Pocket
+    4300018: Polo1_Body1_back1
+    4300020: Polo1_Body1_back2
+    4300022: Polo1_Body1_front1
+    4300024: Polo1_Body1_front2
+    4300026: Polo1_Body1_front3
+    4300028: Polo1_Body1_front4
+    4300030: Polo1_Body1_side
+    4300032: Polo1_Body1_line
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

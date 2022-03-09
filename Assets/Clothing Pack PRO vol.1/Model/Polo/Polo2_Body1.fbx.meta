@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 9a8a6db11acb12a49a120351fd0e59ec
+timeCreated: 1481216944
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Polo2_Body1_back1
+    100004: Polo2_Body1_back1_line
+    100006: Polo2_Body1_back2
+    100008: Polo2_Body1_Button
+    100010: Polo2_Body1_ButtonHole
+    100012: Polo2_Body1_front
+    100014: Polo2_Body1_front_line
+    100016: Polo2_Body1_n1
+    100018: Polo2_Body1_n2
+    100020: Polo2_Body1_n2_line1
+    100022: Polo2_Body1_n2_line2
+    100024: Polo2_Body1_side1
+    100026: Polo2_Body1_side1_line
+    100028: Polo2_Body1_side2
+    100030: Polo2_Body1_side2_line
+    100032: Polo2_Body1_side_line1
+    100034: Polo2_Body1_side_line2
+    400000: //RootNode
+    400002: Polo2_Body1_back1
+    400004: Polo2_Body1_back1_line
+    400006: Polo2_Body1_back2
+    400008: Polo2_Body1_Button
+    400010: Polo2_Body1_ButtonHole
+    400012: Polo2_Body1_front
+    400014: Polo2_Body1_front_line
+    400016: Polo2_Body1_n1
+    400018: Polo2_Body1_n2
+    400020: Polo2_Body1_n2_line1
+    400022: Polo2_Body1_n2_line2
+    400024: Polo2_Body1_side1
+    400026: Polo2_Body1_side1_line
+    400028: Polo2_Body1_side2
+    400030: Polo2_Body1_side2_line
+    400032: Polo2_Body1_side_line1
+    400034: Polo2_Body1_side_line2
+    2300000: Polo2_Body1_back1
+    2300002: Polo2_Body1_back1_line
+    2300004: Polo2_Body1_back2
+    2300006: Polo2_Body1_Button
+    2300008: Polo2_Body1_ButtonHole
+    2300010: Polo2_Body1_front
+    2300012: Polo2_Body1_front_line
+    2300014: Polo2_Body1_n1
+    2300016: Polo2_Body1_n2
+    2300018: Polo2_Body1_n2_line1
+    2300020: Polo2_Body1_n2_line2
+    2300022: Polo2_Body1_side1
+    2300024: Polo2_Body1_side1_line
+    2300026: Polo2_Body1_side2
+    2300028: Polo2_Body1_side2_line
+    2300030: Polo2_Body1_side_line1
+    2300032: Polo2_Body1_side_line2
+    3300000: Polo2_Body1_back1
+    3300002: Polo2_Body1_back1_line
+    3300004: Polo2_Body1_back2
+    3300006: Polo2_Body1_Button
+    3300008: Polo2_Body1_ButtonHole
+    3300010: Polo2_Body1_front
+    3300012: Polo2_Body1_front_line
+    3300014: Polo2_Body1_n1
+    3300016: Polo2_Body1_n2
+    3300018: Polo2_Body1_n2_line1
+    3300020: Polo2_Body1_n2_line2
+    3300022: Polo2_Body1_side1
+    3300024: Polo2_Body1_side1_line
+    3300026: Polo2_Body1_side2
+    3300028: Polo2_Body1_side2_line
+    3300030: Polo2_Body1_side_line1
+    3300032: Polo2_Body1_side_line2
+    4300000: Polo2_Body1_n2
+    4300002: Polo2_Body1_n1
+    4300004: Polo2_Body1_side_line1
+    4300006: Polo2_Body1_side_line2
+    4300008: Polo2_Body1_front
+    4300010: Polo2_Body1_front_line
+    4300012: Polo2_Body1_side1
+    4300014: Polo2_Body1_side1_line
+    4300016: Polo2_Body1_side2
+    4300018: Polo2_Body1_side2_line
+    4300020: Polo2_Body1_back1
+    4300022: Polo2_Body1_back2
+    4300024: Polo2_Body1_back1_line
+    4300026: Polo2_Body1_n2_line2
+    4300028: Polo2_Body1_n2_line1
+    4300030: Polo2_Body1_Button
+    4300032: Polo2_Body1_ButtonHole
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
