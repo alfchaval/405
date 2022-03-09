@@ -685,7 +685,7 @@ public class InteracionConObjetosRayCast : MonoBehaviour
                 FindObjectOfType<AuxiliarSonidos>().sonidoRecogerPapel();
                 FindObjectOfType<GameManager>().QuitarControl();
                 FindObjectOfType<managersubtitulos>().escribirDurante(3, "Mary's Diary... ?");
-                FindObjectOfType<MemoManager>().backgroundPlaceholderSelect[6].SetActive(true);
+                FindObjectOfType<MemoManager>().backgroundPlaceholderSelect[7].SetActive(true);
                 break;
             case 32:// punto interacion Nota Arrancada Diario Mary 01
                 FindObjectOfType<AuxiliarSonidos>().sonidoRecogerPapel();
