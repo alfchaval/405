@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Luz
+  - interactuarInterior
+  - interactuar
+  - objeto
+  - grabadora3
+  - grabadora4
+  - grabadora2
+  - grabadora1
+  - InventoryButtons
+  - equipo
+  - accion
+  - Cem
+  - LuzUV
+  - grabadora
+  - examinable
+  - suelo
+  - eventoGrabadora
+  - SlotCasete
+  - LLave
+  - SlotNota
+  - Paquete
+  - azulejo
+  - alfombra
+  - SelectorCanal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - NoLeDaLaLuz
+  - Equipment
+  - NOREFLEJA
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
