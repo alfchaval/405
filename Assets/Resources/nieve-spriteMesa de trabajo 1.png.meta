@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 4c17c0eed14e0f8478994c89e9433fb6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nieve-spriteMesa de trabajo 1_0
+    21300002: nieve-spriteMesa de trabajo 1_1
+    21300004: nieve-spriteMesa de trabajo 1_2
+    21300006: nieve-spriteMesa de trabajo 1_3
+    21300008: nieve-spriteMesa de trabajo 1_4
+    21300010: nieve-spriteMesa de trabajo 1_5
+    21300012: nieve-spriteMesa de trabajo 1_6
+    21300014: nieve-spriteMesa de trabajo 1_7
+    21300016: nieve-spriteMesa de trabajo 1_8
+    21300018: nieve-spriteMesa de trabajo 1_9
+    21300020: nieve-spriteMesa de trabajo 1_10
+    21300022: nieve-spriteMesa de trabajo 1_11
+    21300024: nieve-spriteMesa de trabajo 1_12
+    21300026: nieve-spriteMesa de trabajo 1_13
+    21300028: nieve-spriteMesa de trabajo 1_14
+    21300030: nieve-spriteMesa de trabajo 1_15
+    21300032: nieve-spriteMesa de trabajo 1_16
+    21300034: nieve-spriteMesa de trabajo 1_17
+    21300036: nieve-spriteMesa de trabajo 1_18
+    21300038: nieve-spriteMesa de trabajo 1_19
+    21300040: nieve-spriteMesa de trabajo 1_20
+    21300042: nieve-spriteMesa de trabajo 1_21
+    21300044: nieve-spriteMesa de trabajo 1_22
+    21300046: nieve-spriteMesa de trabajo 1_23
+    21300048: nieve-spriteMesa de trabajo 1_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 873
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9555a86cc81b4a43b0475a4ba367066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 873
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33575671fa8ae604fbc7ce97c8a41aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 873
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0737900d620f384ab85096d0d919389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 873
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed3d2562bc2c54cb3448c8d0a0cd98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 878
+        width: 217
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338e3dee827da94bacf1b0eb7db9645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 664
+        width: 218
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e419ee3fee50a42bf3c12265dec7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 664
+        width: 218
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421850986adbcc409ff54cf6219c7fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 664
+        width: 217
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6429a6bd72978d54c8b580c0d08157d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 664
+        width: 218
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cff706b7dd409478c87b3d93498c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 664
+        width: 217
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960c369cab475a43be2b9e180ed9b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 460
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c011a736260ab04bbe857c6a6614267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 460
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eb03e44d435d74ab5668c9b0c6bd19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 460
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6e3c6d3a7fe747a533f039b4e442c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 460
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a146659d3b3bd964fbe6d08cb2fc1dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 460
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32dc794e7e25742af13b8518bf4dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 262
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0df0114c80f74d8a43a1f52d5d56e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 262
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409c8259ca653f418b2f67316b88815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 262
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca442414b023a304685e592811286586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 262
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f29fa8e994df84d824221af49e7f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 262
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c4de4819e39440a0098588171b6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827a0c00bcb44045ac7d54a7d6ef176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 55
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b64301ef4343419249f749b8a355e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 55
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ae2e90cde336468bdf65e5c13a776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 59
+        width: 218
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb79a1dda765a4698156e1cf489503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nieve-spriteMesa de trabajo 1_24
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 59
+        width: 217
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c9ebb8249a3d47b01110572a0af3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bd36a7b5937c03f478aec9ed914f096b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: e1bc166185fa6024ba9120461ed7ad96
+timeCreated: 1562359206
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bone_body
+    100004: bone_disk
+    100006: bone_hand
+    100008: bone_horn
+    100010: bone_plate
+    100012: bone_power
+    100014: bone_reproducer
+    100016: bone_tonearm_a
+    100018: bone_tonearm_b
+    100020: disk
+    100022: gphone_old
+    100024: hand
+    100026: horn
+    100028: plate
+    100030: power
+    100032: reproducer
+    100034: //RootNode
+    100036: tonearm_a
+    100038: tonearm_b
+    100040: bone_brake
+    100042: bone_handle
+    100044: bone_platter
+    100046: bone_soundbox
+    100048: brake
+    100050: handle
+    100052: platter
+    100054: soundbox
+    100056: bone_tonearm
+    100058: tonearm
+    400000: body
+    400002: bone_body
+    400004: bone_disk
+    400006: bone_hand
+    400008: bone_horn
+    400010: bone_plate
+    400012: bone_power
+    400014: bone_reproducer
+    400016: bone_tonearm_a
+    400018: bone_tonearm_b
+    400020: disk
+    400022: gphone_old
+    400024: hand
+    400026: horn
+    400028: plate
+    400030: power
+    400032: reproducer
+    400034: //RootNode
+    400036: tonearm_a
+    400038: tonearm_b
+    400040: bone_brake
+    400042: bone_handle
+    400044: bone_platter
+    400046: bone_soundbox
+    400048: brake
+    400050: handle
+    400052: platter
+    400054: soundbox
+    400056: bone_tonearm
+    400058: tonearm
+    4300000: reproducer
+    4300002: tonearm_b
+    4300004: horn
+    4300006: tonearm_a
+    4300008: power
+    4300010: plate
+    4300012: hand
+    4300014: body
+    4300016: disk
+    4300018: soundbox
+    4300020: platter
+    4300022: handle
+    4300024: brake
+    4300026: tonearm
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: disk
+    13700004: hand
+    13700006: horn
+    13700008: plate
+    13700010: power
+    13700012: reproducer
+    13700014: tonearm_a
+    13700016: tonearm_b
+    13700018: brake
+    13700020: handle
+    13700022: platter
+    13700024: soundbox
+    13700026: tonearm
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

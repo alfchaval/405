@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 80fb22c00fa87a6488f7d02471a157a7
+timeCreated: 1562359205
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_LOD0
+    100002: bone_platter
+    100004: bone_root
+    100006: bone_tonearm
+    100008: bone_tonearm_head
+    100010: disk_LOD0
+    100012: gramophone_ussr_col
+    100014: gramophone_ussr_LOD0
+    100016: platter_LOD0
+    100018: //RootNode
+    100020: tonearm_head_LOD0
+    100022: tonearm_LOD0
+    100024: body
+    100026: bone_body
+    100028: bone_brace
+    100030: bone_brake
+    100032: bone_cap
+    100034: bone_handle
+    100036: bone_lock
+    100038: bone_loop
+    100040: bone_soundbox
+    100042: brace
+    100044: brake
+    100046: cap
+    100048: gphone_ussr
+    100050: handle
+    100052: lock
+    100054: loop
+    100056: platter
+    100058: soundbox
+    100060: tonearm
+    100062: bone_disk
+    100064: disk
+    400000: body_LOD0
+    400002: bone_platter
+    400004: bone_root
+    400006: bone_tonearm
+    400008: bone_tonearm_head
+    400010: disk_LOD0
+    400012: gramophone_ussr_col
+    400014: gramophone_ussr_LOD0
+    400016: platter_LOD0
+    400018: //RootNode
+    400020: tonearm_head_LOD0
+    400022: tonearm_LOD0
+    400024: body
+    400026: bone_body
+    400028: bone_brace
+    400030: bone_brake
+    400032: bone_cap
+    400034: bone_handle
+    400036: bone_lock
+    400038: bone_loop
+    400040: bone_soundbox
+    400042: brace
+    400044: brake
+    400046: cap
+    400048: gphone_ussr
+    400050: handle
+    400052: lock
+    400054: loop
+    400056: platter
+    400058: soundbox
+    400060: tonearm
+    400062: bone_disk
+    400064: disk
+    2300000: gramophone_ussr_col
+    3300000: gramophone_ussr_col
+    4300000: disk_LOD0
+    4300002: tonearm_LOD0
+    4300004: tonearm_head_LOD0
+    4300006: platter_LOD0
+    4300008: body_LOD0
+    4300010: gramophone_ussr_col
+    4300012: tonearm
+    4300014: soundbox
+    4300016: platter
+    4300018: loop
+    4300020: lock
+    4300022: handle
+    4300024: cap
+    4300026: brake
+    4300028: brace
+    4300030: body
+    4300032: disk
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body_LOD0
+    13700002: disk_LOD0
+    13700004: platter_LOD0
+    13700006: tonearm_head_LOD0
+    13700008: tonearm_LOD0
+    13700010: body
+    13700012: brace
+    13700014: brake
+    13700016: cap
+    13700018: handle
+    13700020: lock
+    13700022: loop
+    13700024: platter
+    13700026: soundbox
+    13700028: tonearm
+    13700030: disk
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
